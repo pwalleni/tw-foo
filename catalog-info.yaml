@@ -12,6 +12,10 @@ metadata:
       title: Volvo Cars Stack Overflow
       icon: question
       type: qna
+    - url: https://intranet.volvocars.net
+      title: Volvo Cars Intranet
+      icon: documentation
+      type: documentation
 spec:
   type: website
   owner: pwalleni
