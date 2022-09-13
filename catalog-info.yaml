@@ -18,5 +18,5 @@ metadata:
       type: documentation
 spec:
   type: website
-  owner: pwalleni
+  owner: user:pwalleni
   lifecycle: experimental
