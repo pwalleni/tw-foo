@@ -7,7 +7,12 @@ metadata:
   annotations:
     github.com/project-slug: https://github.com/pwalleni/tw-foo
     backstage.io/techdocs-ref: dir:.
+  links:
+    - url: https://volvocars.stackenterprise.co
+      title: Volvo Cars Stack Overflow
+      icon: question
+      type: qna
 spec:
-  type: service
-  owner: user:pwalleni
+  type: website
+  owner: pwalleni
   lifecycle: experimental
