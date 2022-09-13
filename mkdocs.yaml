@@ -1,0 +1,10 @@
+site_name: 'Technical Writing Foo'
+
+nav:
+  - Getting started: index.md
+
+plugins:
+  - techdocs-core
+
+markdown_extensions:
+  - mdx_truly_sane_lists
