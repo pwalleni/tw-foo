@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: tw-foo
+  title: Technical Writing Foo
+  description: Adding a Backstage entity from local-GH-Backstage 
+  annotations:
+    github.com/project-slug: https://github.com/pwalleni/tw-foo
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  owner: user:pwalleni
+  lifecycle: experimental
